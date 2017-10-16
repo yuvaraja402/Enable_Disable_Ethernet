@@ -1,0 +1,16 @@
+missing module named resource - imported by posix, C:\Users\DYUTRON\Desktop\project_11.py
+missing module named posix - imported by os, C:\Users\DYUTRON\Desktop\project_11.py
+missing module named _posixsubprocess - imported by subprocess, C:\Users\DYUTRON\Desktop\project_11.py
+missing module named 'org.python' - imported by pickle, C:\Users\DYUTRON\Desktop\project_11.py, xml.sax
+missing module named ce - imported by os, C:\Users\DYUTRON\Desktop\project_11.py
+missing module named readline - imported by cmd, code, pdb, C:\Users\DYUTRON\Desktop\project_11.py
+excluded module named _frozen_importlib - imported by importlib, C:\Users\DYUTRON\Desktop\project_11.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, C:\Users\DYUTRON\Desktop\project_11.py
+missing module named 'java.lang' - imported by platform, C:\Users\DYUTRON\Desktop\project_11.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Users\DYUTRON\Desktop\project_11.py
+missing module named termios - imported by tty, C:\Users\DYUTRON\Desktop\project_11.py, getpass
+missing module named grp - imported by tarfile, shutil, C:\Users\DYUTRON\Desktop\project_11.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\DYUTRON\Desktop\project_11.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, C:\Users\DYUTRON\Desktop\project_11.py, getpass
+missing module named org - imported by copy, C:\Users\DYUTRON\Desktop\project_11.py
