@@ -13,4 +13,25 @@
 Microsoft Windows - <i>7, 8, 8.1 and 10</i>
 
 ### Technologies used:
-<b>Python</b> :snake: Programming Language and <b>Bash</b> scripts.
+<b>Python</b> :snake: Programming Language, <b>Tkinter</b> library for User interface creation and <b>Bash</b> scripts to enable program interact with operating system.
+
+### Implementation snapshots:
+
+1. User interaction dialog window created using Tkinter library
+
+<img src='https://github.com/yuvaraja402/Enable_Disable_Ethernet/blob/master/images%20for%20readme/1.PNG' alt='hello'>
+
+
+2. Internet State is <b>Active</b>
+
+<img src='https://github.com/yuvaraja402/Enable_Disable_Ethernet/blob/master/images%20for%20readme/net_on.png'>
+
+
+3.Toggling the Internet using Enable/Disable Ethernet program
+
+<img src='https://github.com/yuvaraja402/Enable_Disable_Ethernet/blob/master/images%20for%20readme/toggle.jpg'>
+
+
+4. Internet state changes to <b>Disabled and disconnected</b>. Now using the program we can connect and disconnect ethernet port as per requirement with just one click!
+
+<img src='https://github.com/yuvaraja402/Enable_Disable_Ethernet/blob/master/images%20for%20readme/net_off.png'>
