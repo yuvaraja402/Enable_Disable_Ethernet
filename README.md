@@ -1,6 +1,6 @@
 # Enable or Disable Ethernet
 
-<b>Motto</b> :thought_balloon: - In Windows 7, 8, 8.1 and 10 there is always an hassle when there is a need to disconnect ethernet port during maintenance tasks or performing company's confidential work that shouldn't be connected to internet at any costs. The person has to physically remove the ethernet cable or perform multiple clicks in order to disable the ethernet ports functioning. <i>Enabling and disabling wifi has never been easier, but Ethernet port has been an hassle always!</i>
+<b>Motto</b> :thought_balloon: - In Windows 7, 8, 8.1 and 10 there is always a hassle when there is a need to disconnect ethernet port during maintenance tasks or performing company's confidential work that shouldn't be connected to the internet at any costs. The person has to physically remove the ethernet cable or perform multiple clicks to disable the ethernet ports functioning. <i>Enabling and disabling wifi has never been easier, but Ethernet port has been a hassle always!</i>
 
 <b>Objective</b> :dart: - An user interface that will perform enabling and disabling of ethernet port whenever required saving multiple clicks and time. 
 
