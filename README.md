@@ -10,7 +10,7 @@ Python Code : https://github.com/yuvaraja402/Enable_disable_internet/blob/master
 Executable program : https://github.com/yuvaraja402/Enable_disable_internet/blob/master/Executable%20file/dist/net_enable_disable.exe
 
 (The executable program has to be downloaded and 'Run as administrator' to perform action)
-#### Compatability :computer::
+#### Compatibility :computer::
 Windows - 7, 8, 8.1 and 10
 #### Technologies used:
 <b>Python</b> Programming Language and <b>Bash</b> scripts.
